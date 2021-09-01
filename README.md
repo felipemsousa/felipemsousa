@@ -28,7 +28,8 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemsousa&show_icons=true)
+
+[![card](https://github-readme-stats.vercel.app/api?username=felipemsousa&theme=dark)](https://github.com/felipemsousa/)
 
 
 <!--
