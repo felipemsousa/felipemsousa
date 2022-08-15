@@ -10,6 +10,8 @@
 
   ![Python](https://img.shields.io/badge/-python-333333?style=for-the-badge&logo=python)
   ![Flask](https://img.shields.io/badge/-flask-333333?style=for-the-badge&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/-fastapi-333333?style=for-the-badge&logo=fastapi)
+  ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=for-the-badge&logo=postgresql)
 
 **Utilidades**
 
